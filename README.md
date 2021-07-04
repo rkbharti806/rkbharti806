@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkbharti806(R.K.Bharti)
 - 👀 I’m interested in make new friends.(but old is gold as you know)
 - 🌱 I’m currently learning Digital Marketting (to become a successfull person)
-- 💞️ I’m looking to collaborate on github with new developers and want to learn cool things.(any one here :)   
+- 💞️ I’m looking to collaborate on github with new developers and want to learn cool things.(anybuddy here :-) )   
 - 📫 How to reach me (rbharti1496@gmail.com)  
 
 <!---
