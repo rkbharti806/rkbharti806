@@ -61,7 +61,7 @@ Graphic & Web Designer · Digital Marketer · DDEO
 
 </div>
 
-<sub align="center">Each card is a floating isometric block, self-hosted  click any card to open the repo.</sub>
+<sub text-align="center">Each card is a floating isometric block, self-hosted  click any card to open the repo.</sub>
 
 <br/>
 
