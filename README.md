@@ -28,8 +28,6 @@ Graphic & Web Designer · Digital Marketer · DDEO
   <img alt="A snake eating through my real contribution graph" src="https://raw.githubusercontent.com/rkbharti806/rkbharti806/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-> **Needs a one-time setup** — see `.github/workflows/snake.yml` in the files below. Once you add it and run it once from the Actions tab, this snake eats through your real, live contribution graph and refreshes automatically every 6 hours. Until then this shows broken — that's expected before setup.
-
 <br/>
 
 ![wave divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-b47c-ef78f3fcbf07.gif)
@@ -63,7 +61,7 @@ Graphic & Web Designer · Digital Marketer · DDEO
 
 </div>
 
-<sub>Each card is a floating isometric block, self-hosted — click any card to open the repo.</sub>
+<sub align="center">Each card is a floating isometric block, self-hosted  click any card to open the repo.</sub>
 
 <br/>
 
