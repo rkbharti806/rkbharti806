@@ -1,7 +1,10 @@
 <div align="center">
-# Hi, I'm R.K. Bharti 👋
 
-### Graphic & Web Designer · Digital Marketer · DDEO
+<img src="https://avatars.githubusercontent.com/u/55510499?v=4" width="120" style="border-radius:50%;border:3px solid #E8A33D" alt="Rkbharti avatar"/>
+
+Hi, I'm R.K. Bharti 👋
+
+Graphic & Web Designer · Digital Marketer · DDEO
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&pause=1000&color=E8A33D&center=true&vCenter=true&width=460&lines=Learning+UX%2FUI+%26+Graphic+Design;Building+with+HTML%2C+CSS+%26+JavaScript;Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
 
@@ -11,7 +14,7 @@
 
 ---
 
-### 🌱 About me
+🌱 About me
 
 - 👀 Interested in making new friends — but old is gold, as you know
 - 🌱 Currently learning **UX/UI & Graphic Design**
@@ -25,7 +28,7 @@
 
 ---
 
-### 📌 Pinned projects
+📌 Pinned projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -37,21 +40,23 @@
 
 ---
 
-### 📊 GitHub stats
+📊 GitHub stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rkbharti806&show_icons=true&theme=default&title_color=E8A33D&icon_color=2D6E7E&text_color=1A1A2E&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+![Repos](https://img.shields.io/badge/Public_Repos-18-E8A33D?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)
+![Followers](https://img.shields.io/github/followers/rkbharti806?style=for-the-badge&color=2D6E7E&labelColor=1A1A2E&label=Followers)
+![Stars](https://img.shields.io/github/stars/rkbharti806?style=for-the-badge&color=E85A4F&labelColor=1A1A2E&label=Stars)
 
 <img src="https://streak-stats.demolab.com/?user=rkbharti806&theme=default&hide_border=true&ring=E8A33D&fire=E85A4F&currStreakLabel=2D6E7E&background=FFFDF9" alt="GitHub streak"/>
 
 </div>
 
-> If any stat card above doesn't render immediately, GitHub is likely still generating it — refresh the page after a few seconds. These are live SVGs pulled fresh on every page load, not stored images.
+> The streak card is a live SVG and may take a moment to load. The badges above are served by Shields.io and don't depend on the same host, so they stay up even if a stats widget elsewhere is rate-limited.
 
 ---
 
-### 🛠️ Tools I use
+🛠️ Tools I use
 
 <div align="center">
 
@@ -71,7 +76,7 @@
 
 <div align="center">
 
-### 🤝 Connect with me
+🤝 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbharti1496@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/rkbharti806?style=for-the-badge&color=2D6E7E&labelColor=1A1A2E)](https://github.com/rkbharti806?tab=followers)
