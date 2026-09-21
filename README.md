@@ -55,7 +55,6 @@ Graphic & Web Designer · Digital Marketer · DDEO
 <a href="https://github.com/rkbharti806/Nwmail"><img src="./pin-nwmail.svg" width="200"/></a>
 <a href="https://github.com/rkbharti806/imgwall"><img src="./pin-imgwall.svg" width="200"/></a>
 <a href="https://github.com/rkbharti806/Rbshop"><img src="./pin-rbshop.svg" width="200"/></a>
-<br/>
 <a href="https://github.com/rkbharti806/JavaScript30"><img src="./pin-js30.svg" width="200"/></a>
 <a href="https://github.com/rkbharti806/robofriends"><img src="./pin-robofriends.svg" width="200"/></a>
 
