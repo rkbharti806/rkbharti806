@@ -8,17 +8,25 @@
 
 <br/>
 
+🔁 My process, in 3D
+
+<img src="./design-process.svg" width="100%" alt="Idea to design to build to promote to launch — animated isometric pipeline"/>
+
+<sub>Idea → Design → Build → Promote → Launch — isometric blocks, floating and lit with depth, tracing how a project moves through my hands.</sub>
+
+<br/><br/>
+
 ![wave divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-b47c-ef78f3fcbf07.gif)
 
 </div>
 
 🌱 About me
 
-- 👀 Interested in making new friends — but old is gold, as you know
-- 🌱 Currently learning **UX/UI & Graphic Design**
-- 💞️ Looking to collaborate with new developers and learn cool things
-- 📫 Reach me at **rbharti1496@gmail.com**
-- 💭 *"I'm just simple & cool ;-). I love Mother Nature and learn something new every day, from others."*
+👀 Interested in making new friends — but old is gold, as you know
+🌱 Currently learning **UX/UI & Graphic Design**
+💞️ Looking to collaborate with new developers and learn cool things
+📫 Reach me at **rbharti1496@gmail.com**
+💭 *"I'm just simple & cool ;-). I love Mother Nature and learn something new every day, from others."*
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600"/>
@@ -28,13 +36,13 @@
 
 ![wave divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-b47c-ef78f3fcbf07.gif)
 
-🐍 Contribution graph, in motion
+🏙️ Contribution skyline, in 3D
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rkbharti806/rkbharti806/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating the contribution graph"/>
+<img src="https://commitpulse.vercel.app/api/streak?user=rkbharti806&theme=obsidian&gradient=true&shading=true&labels=true" width="100%" alt="3D isometric contribution skyline"/>
 </div>
 
-> **Needs one-time setup** — this snake animates your real contribution graph, but only appears after you add a small GitHub Action (steps at the bottom of this file, in the raw markdown). Until then this shows as a broken image — remove this section if you'd rather skip the setup for now.
+<sub>Each glowing tower is one day — height and glow scale with commit activity. Rendered live from your real contribution history, animated with a radar scan line — no setup needed on your end.</sub>
 
 <br/>
 
