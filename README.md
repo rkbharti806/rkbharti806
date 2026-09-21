@@ -61,8 +61,6 @@ Graphic & Web Designer · Digital Marketer · DDEO
 
 </div>
 
-<sub text-align="center">Each card is a floating isometric block, self-hosted  click any card to open the repo.</sub>
-
 <br/>
 
 ![wave divider](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-b47c-ef78f3fcbf07.gif)
