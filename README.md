@@ -52,12 +52,12 @@ Graphic & Web Designer · Digital Marketer · DDEO
 
 <div align="center">
 
-<a href="https://github.com/rkbharti806/Nwmail"><img src="./pins/pin-nwmail.svg" width="200"/></a>
-<a href="https://github.com/rkbharti806/imgwall"><img src="./pins/pin-imgwall.svg" width="200"/></a>
-<a href="https://github.com/rkbharti806/Rbshop"><img src="./pins/pin-rbshop.svg" width="200"/></a>
+<a href="https://github.com/rkbharti806/Nwmail"><img src="./pin-nwmail.svg" width="200"/></a>
+<a href="https://github.com/rkbharti806/imgwall"><img src="./pin-imgwall.svg" width="200"/></a>
+<a href="https://github.com/rkbharti806/Rbshop"><img src="./pin-rbshop.svg" width="200"/></a>
 <br/>
-<a href="https://github.com/rkbharti806/JavaScript30"><img src="./pins/pin-js30.svg" width="200"/></a>
-<a href="https://github.com/rkbharti806/robofriends"><img src="./pins/pin-robofriends.svg" width="200"/></a>
+<a href="https://github.com/rkbharti806/JavaScript30"><img src="./pin-js30.svg" width="200"/></a>
+<a href="https://github.com/rkbharti806/robofriends"><img src="./pin-robofriends.svg" width="200"/></a>
 
 </div>
 
