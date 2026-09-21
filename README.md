@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/55510499?v=4" width="120" style="border-radius:50%;border:3px solid #E8A33D" alt="Rkbharti avatar"/>
-
 # Hi, I'm R.K. Bharti 👋
 
 ### Graphic & Web Designer · Digital Marketer · DDEO
