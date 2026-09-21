@@ -1,5 +1,5 @@
 <div align="center">
-### Graphic & Web Designer · Digital Marketer · DDEO
+Graphic & Web Designer · Digital Marketer · DDEO
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=E8A33D&center=true&vCenter=true&width=480&lines=Learning+UX%2FUI+%26+Graphic+Design;Building+with+HTML%2C+CSS+%26+JavaScript;Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
 
